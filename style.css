@@ -1,0 +1,50 @@
+body {
+    margin: 0px;
+    }
+
+
+/*Начало блок no signal (Валентин)*/
+
+.no-signal-block {
+    background: url(img/777.png);
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    }
+
+.phone-s {
+    background: url(img/phone-s.svg);
+    height: 15px;
+    width: 80px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin: 0px 0px 0px 5px;
+    padding-bottom: 24px;
+    }
+
+.wifi-s {
+    background: url(img/wifi-s.svg);
+    height: 25px;
+    width: 35px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin: 5px;
+    }
+
+
+.no-signal-block p {
+    color: #F44336;
+    padding-top: 30%;
+    text-align: center;
+    margin: 0px;
+    font-size: 30px;
+    font-family: monospace;
+    }
+
+/*Конец блока no signal (Валентин)*/
